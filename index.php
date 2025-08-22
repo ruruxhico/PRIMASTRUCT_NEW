@@ -34,7 +34,7 @@ if (!in_array($page, $allowed_pages)) {
     
     <script>
         function note() {
-            alert("The account is still under construction. Come by next time!");
+            alert("The website is still under construction. Come by next time!");
         }
     </script>
 
