@@ -50,7 +50,7 @@
             <h1>About Us</h1>
         </div>
         <div class="col-lg-6 col-md-6 text-center">
-            <div class="about-us">
+            <div class="overview-images">
                 <div class="img-col">
                     <div id="overviewCarousel" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
@@ -82,7 +82,7 @@
             </div>
         </div>
         <div class="col-lg-6 col-md-6">
-            <div class="about-me">
+            <div class="overview-text">
                 <p> Prima-struct Engineering Consultancy is a design firm which 
                     specializes in infrastructure projects ranging from mid to 
                     low-rise residential and commercial projects to telecommunication 
@@ -91,6 +91,44 @@
                     partnered contractors and architectural firms which is still with us up 
                     to now proving our excellence and commitment with our partners.
                 </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-12 text-center">
+            <h1>CEO Message</h1>
+        </div>
+        <div class="col-lg-6 col-md-6">
+            <div class="about-me">
+                Welcome to Prima-Struct Engineering Consultancy! As the leader of this engineering 
+                company, we are thrilled to have you here. Our mission is to deliver innovative 
+                solutions that meet your unique challenges, leveraging cutting-edge technology 
+                and a dedicated team of experts. <br><br>
+
+                At Prima, we believe in building lasting relationships based on trust, 
+                transparency, and exceptional service. We are passionate about 
+                engineering and committed to excellence in every project we undertake.<br><br>
+
+                Thank you for choosing us as your partner. Together, let’s 
+                engineer a better future.<br><br>
+
+                Warm regards,<br><br>
+
+                Kim Aldrin S. Mejia<br>
+                CEO & Co-founder<br>
+                Prima-Struct Engineering Consultancy<br>
+
+            </div>
+        </div>
+
+            <div class="col-lg-6 col-md-6 text-center">
+            <div class="about-me">
+                <div class="img-col">
+                    <img src="assets\ceo.jpg" alt="about-me" class="img-fluid">
+                </div>
             </div>
         </div>
     </div>

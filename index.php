@@ -66,14 +66,44 @@ if (!in_array($page, $allowed_pages)) {
         ?>
     </main>
     
+    <div class="container">
+    <div class="row justify-content-center">
+
     <!-- Footer -->
     <footer>
         <div class="footer-content">
-            <p>&copy; <?php echo date('Y'); ?> Prima-struct Engineering Consultancy. All rights reserved.</p>
-            <div class="social-icons">
-                <a href="#"><i class='bx bxl-facebook'></i></a>
-                <a href="#"><i class='bx bxl-twitter'></i></a>
-                <a href="#"><i class='bx bxl-instagram'></i></a>
+            <div class="row justify-content-center">
+                <div class="col-lg-6 col-md-6 text-center">
+                    <a class="navbar-brand" href="index.php">
+                    <img class="logo" src="assets/logo.png"/>
+                    </a>
+                    <p>&copy; <?php echo date('Y'); ?> Prima-struct Engineering Consultancy. All rights reserved.</p>
+                </div>
+            
+                <div class="col-lg-6 col-md-6 text-center">
+                    <div class="address">
+                        <p>
+                            Office Addresses <br><br>
+
+                            UNIT 0427 VINIA RESIDENCES BRGY PHILAM QC, PH 1104 <br><br>
+
+                            B4 L3 Northview Subdivision Pajo, Meycauayan, Bulacan <br><br><br>
+
+                            Contact Us <br><br>
+
+                            09260536612
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-6 text-center">
+                    <p>
+                        primastruct.engineering@gmail.com
+                    </p>
+                    <div class="social-icons">
+                        <a href="#"><i class='bx bxl-facebook'></i></a>
+                    </div>
+                </div>
             </div>
         </div>
     </footer>
